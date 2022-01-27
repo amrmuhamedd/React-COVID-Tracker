@@ -1,6 +1,6 @@
 # React COVID Tracker
 
-this project is live [here](https://amazing-jang-12d6f8.netlify.app/)
+this project is live [here](https://covide-tracker.netlify.app/)
 
 use  [disease.sh](https://disease.sh/docs/?urls.primaryName=version%203.0.0) api to build covid19 tracker
 
